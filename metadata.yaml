@@ -1,0 +1,38 @@
+_repo: A-flor-secca-romance_69353
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Chagas, Manuel Pinheiro
+    aliases:
+    - Pinheiro Chagas, Manuel Joaquim
+    - Chagas, Pinheiro
+    - Chagas, M. Pinheiro
+    birthdate: 1842
+    deathdate: 1895
+    gutenberg_agent_id: '33861'
+    url: http://www.gutenberg.org/2009/agents/33861
+    wikipedia: https://pt.wikipedia.org/wiki/Manuel_Pinheiro_Chagas
+description: ''
+gutenberg_issued: '2022-11-15'
+identifiers:
+  gutenberg: '69353'
+language: pt
+pgterms:marc904: https://archive.org/details/florseccaromance00chag/page/4/mode/2up
+pgterms:marc905: 20220320113048chagas
+pgterms:marc906: '1904'
+pgterms:marc907: pt
+production_note: The Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: 'Portugal: Parceira Antonio Maria Pereira,1904.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Young women -- Fiction'
+- !lcsh 'Aunts -- Fiction'
+- !lcsh 'Husband and wife -- Fiction'
+- !lcsh 'Portuguese fiction -- 19th century'
+- !lcc 'PQ'
+- GITenberg
+title: 'A flor secca: romance'
+url: http://www.gutenberg.org/ebooks/69353
